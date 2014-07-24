@@ -1,7 +1,7 @@
 qfort-editr
 ===========
 
-**Temporarily hosted here: http://mihai.devpen.ro/qfort-editr/**
+**Temporarily hosted here: http://ppeng.github.io/qfort-editr/**
 
 Web editor for Qfort blueprints
 
